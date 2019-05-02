@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * Class TicketToRide - write a description of the class here
  * 
- * @author Rachael, Rob, London, Javier, Jose
+ * @author Rachael Mahar
  */
 public class TicketToRide extends JApplet implements MouseListener
 {
